@@ -10,7 +10,7 @@
 ---
 
 ## :man_technologist: About Me :
-I am a Full Stack Developer from the United Kingdom!. I'm a 22 year old programmer who is wanting to persue a career in full stack development. I have had a passion for computers since i was little, i always wanted to learn how stuff worked and why, growing up i became more tech savvy and decided this is what i want to dedicate my life to.
+I am currently learning how to be a Full Stack Developer! I am also from the United Kingdom!. I'm a 22 year old programmer who is wanting to persue a career in full stack development. I have had a passion for computers since i was little, i always wanted to learn how stuff worked and why, growing up i became more tech savvy and decided this is what i want to dedicate my life to.
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
